@@ -1,5 +1,5 @@
 ### Daksh Kulshrestha
-<br>
+
 Hey, this is Daksh :)
 <br>
 I am a student currently aspiring over becoming a web engineer. I have a good grasp of Python, Javascript & CSS (I write my own media queries so, I guess you get an idea.)
