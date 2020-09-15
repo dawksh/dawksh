@@ -1,4 +1,4 @@
-<center> ![visitor](https://visitor-badge.glitch.me/badge?page_id=DevDaksh.DevDaksh) 
+<center> ![visitor](https://visitor-badge.glitch.me/badge?page_id=DevDaksh.DevDaksh) </center>
  
 ### Daksh Kulshrestha
 
