@@ -10,7 +10,7 @@ Hey, this is Daksh :)
 <br>
 😄 A few of my hobbies apart from tech industry includes music production, cricket and playing games!
 <br> 
-📫 I'm pretty active on [twitter](https://twitter.com/dawksh). Would love to have a casual talk!
+📫 I'm pretty active on [twitter](https://twitter.com/dawksh). Would love to have a talk!
 <br>
 <br>
 
