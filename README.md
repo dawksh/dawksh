@@ -1,4 +1,4 @@
-![visitor](https://visitor-badge.glitch.me/badge?page_id=dawksh.dawksh)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
  
 ### Daksh Kulshrestha
 
@@ -6,27 +6,13 @@ Hey, this is Daksh :)
 <br>
 💬 Currently a student BUIDLing for the web and crypto space.
 <br>
-⚡ I am working as a web developer. My main technology of use is NextJS for frontend.
+⚡ I am working as a web3 dev and web3 community intern.
 <br>
-😄 A few of my hobbies apart from tech industry includes music production, cricket and playing games!
+😄 A few of my hobbies apart from tech industry includes music production, cricket and playing video games!
 <br> 
-📫 I'm pretty active on [twitter](https://twitter.com/dawksh). Would love to have a talk!
+📫 I'm pretty active on [twitter](https://twitter.com/0xDak). Would love to have a talk!
 <br>
 <br>
 
 [![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dawksh&count_private=true&show_icons=true&theme=radical)](https://github.com/DevDaksh/github-readme-stats)
 
-<!--
-**DevDaksh/DevDaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
